@@ -1,0 +1,24 @@
+\documentclass{book}
+
+\begin{document}
+
+\title{Stress Management}
+\date{}
+\author{shraddha and \and team}
+\maketitle
+
+<<child='Children/chapter1.Rnw'>>=
+
+@
+
+<<child='Children/chapter2.Rnw'>>=
+
+@
+
+<<child='Children/chapter3.Rnw'>>=
+
+@
+
+
+
+\end{document}
